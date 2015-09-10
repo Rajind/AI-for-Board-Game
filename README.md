@@ -1,7 +1,7 @@
 <h1>Java Implementation of Min-Max tree with Alpha Beta Pruning based AI for the Board Game</h1>
 
-Simple evaluation function  used.
-Number of positions player can move – Number of positions opponent can move
+<h2>Simple evaluation function  used.
+Number of positions player can move – Number of positions opponent can move</h2>
 
 It was implemented using two functions. The evalDirectrionWise method will calculate possible move positions directions wise. The evalFunction will give the final value using the direction-wise values.
 
