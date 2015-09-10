@@ -1,4 +1,4 @@
-Java Implementation of Min-Max tree with Alpha Beta Pruning based AI for the Board Game
+<h1>Java Implementation of Min-Max tree with Alpha Beta Pruning based AI for the Board Game</h1>
 
 Simple evaluation function  used.
 Number of positions player can move – Number of positions opponent can move
